@@ -1,4 +1,4 @@
-# proje_takip_dashboard
+# KOU Research Project Tracking Dashboard
 
 A new Flutter project.
 
